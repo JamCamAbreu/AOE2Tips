@@ -1,0 +1,1876 @@
+## =============================================
+## UNIQUE UNITS (Castle / Civilization-Specific)
+## =============================================
+
+[TIP]
+Type=Unique Unit
+Title=Arambai - Burmese
+Cost=80W 60G
+HP=40
+Attack=17 Pierce
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=1.3
+Range=5
+Tags=Cavalry Archer, Unique Unit
+Sprite=arambai
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Ballista Elephant - Khmer
+Cost=100F 80G
+HP=250
+Attack=8 Pierce
+Rate of Fire=2.5
+Melee Armor=0
+Pierce Armor=3
+Speed=0.8
+Range=5
+Tags=Cavalry, Siege, Unique Unit
+Bonus Damage=+4 vs Building
+Sprite=ballista_elephant
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Berserk - Vikings
+Cost=65F 25G
+HP=54
+Attack=9 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=1
+Speed=1.05
+Range=0
+Tags=Infantry, Unique Unit
+Sprite=berserk
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Boyar - Slavs
+Cost=50F 80G
+HP=100
+Attack=12 Melee
+Rate of Fire=1.9
+Melee Armor=4
+Pierce Armor=1
+Speed=1.35
+Range=0
+Tags=Cavalry, Unique Unit
+Sprite=boyar
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Camel Archer - Berbers
+Cost=50W 60G
+HP=55
+Attack=7 Pierce
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=1
+Speed=1.4
+Range=4
+Tags=Cavalry Archer, Unique Unit
+Bonus Damage=+2 vs Cavalry Archer
+Sprite=camel_archer
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Caravel - Portuguese
+Cost=90W 34G
+HP=130
+Attack=6 Pierce
+Rate of Fire=3.0
+Melee Armor=0
+Pierce Armor=6
+Speed=1.43
+Range=6
+Tags=Ship, Unique Unit
+Bonus Damage=+6 vs Ship
+Sprite=caravel
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Cataphract - Byzantines
+Cost=70F 75G
+HP=110
+Attack=9 Melee
+Rate of Fire=1.8
+Melee Armor=2
+Pierce Armor=1
+Speed=1.35
+Range=0
+Tags=Cavalry, Unique Unit
+Bonus Damage=+9 vs Infantry, +9 vs Condottiero
+Sprite=cataphract
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Centurion - Romans
+Cost=60F 70G
+HP=120
+Attack=13 Melee
+Rate of Fire=1.8
+Melee Armor=2
+Pierce Armor=2
+Speed=1.35
+Range=0
+Tags=Cavalry, Unique Unit
+Bonus Damage=+4 vs Infantry
+Sprite=centurion
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Chakram Thrower - Gurjaras
+Cost=30F 65G
+HP=45
+Attack=3 Melee
+Rate of Fire=2.0
+Melee Armor=1
+Pierce Armor=0
+Speed=1.0
+Range=5
+Tags=Infantry, Unique Unit
+Sprite=chakram_thrower
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Chu Ko Nu - Chinese
+Cost=40W 35G
+HP=45
+Attack=8 Pierce
+Rate of Fire=3.0
+Melee Armor=0
+Pierce Armor=0
+Speed=0.96
+Range=4
+Tags=Archer, Unique Unit
+Sprite=chu_ko_nu
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Composite Bowman - Armenians
+Cost=35W 45G
+HP=40
+Attack=6 Pierce
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=0.96
+Range=5
+Tags=Archer, Unique Unit
+Bonus Damage=+2 vs Spearman
+Sprite=composite_bowman
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Condottiero - Italians
+Cost=50F 35G
+HP=80
+Attack=10 Melee
+Rate of Fire=1.9
+Melee Armor=1
+Pierce Armor=1
+Speed=1.2
+Range=0
+Tags=Infantry, Unique Unit
+Bonus Damage=+10 vs Gunpowder
+Sprite=condottiero
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Conquistador - Spanish
+Cost=60F 70G
+HP=55
+Attack=16 Pierce
+Rate of Fire=2.9
+Melee Armor=2
+Pierce Armor=2
+Speed=1.3
+Range=6
+Tags=Cavalry, Gunpowder, Unique Unit
+Sprite=conquistador
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Coustillier - Burgundians
+Cost=55F 55G
+HP=115
+Attack=8 Melee
+Rate of Fire=1.9
+Melee Armor=2
+Pierce Armor=2
+Speed=1.35
+Range=0
+Tags=Cavalry, Unique Unit
+Sprite=coustillier
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Gbeto - Malians
+Cost=50F 40G
+HP=30
+Attack=10 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=1.25
+Range=5
+Tags=Infantry, Unique Unit
+Sprite=gbeto
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Genitour - Berbers
+Cost=50F 35W
+HP=50
+Attack=3 Pierce
+Rate of Fire=3.0
+Melee Armor=0
+Pierce Armor=4
+Speed=1.35
+Range=4
+Tags=Cavalry Archer, Unique Unit
+Bonus Damage=+4 vs Archer, +3 vs Cavalry Archer
+Sprite=genitour
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Genoese Crossbowman - Italians
+Cost=50W 50G
+HP=45
+Attack=6 Pierce
+Rate of Fire=2.0
+Melee Armor=1
+Pierce Armor=0
+Speed=0.96
+Range=4
+Tags=Archer, Unique Unit
+Bonus Damage=+5 vs Cavalry, +5 vs War Elephant, +5 vs Camel, +5 vs Ship
+Sprite=genoese_crossbowman
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Ghulam - Hindustanis
+Cost=45F 40G
+HP=65
+Attack=8 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=3
+Speed=1.0
+Range=0
+Tags=Infantry, Unique Unit
+Bonus Damage=+2 vs Archer
+Sprite=ghulam
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Huskarl - Goths
+Cost=52F 26G
+HP=60
+Attack=10 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=6
+Speed=1.05
+Range=0
+Tags=Infantry, Unique Unit
+Bonus Damage=+6 vs Eagle Warrior, +2 vs Archer, +3 vs Building
+Sprite=huskarl
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Hussite Wagon - Bohemians
+Cost=110W 70G
+HP=200
+Attack=16 Pierce
+Rate of Fire=3.45
+Melee Armor=0
+Pierce Armor=0
+Speed=0.85
+Range=6
+Tags=Siege, Unique Unit
+Sprite=hussite_wagon
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Jaguar Warrior - Aztecs
+Cost=60F 30G
+HP=50
+Attack=10 Melee
+Rate of Fire=2.0
+Melee Armor=1
+Pierce Armor=1
+Speed=1.0
+Range=0
+Tags=Infantry, Unique Unit
+Bonus Damage=+10 vs Infantry, +10 vs Condottiero, +2 vs Eagle Warrior, +2 vs Standard Building
+Sprite=jaguar_warrior
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Janissary - Turks
+Cost=60F 55G
+HP=44
+Attack=17 Pierce
+Rate of Fire=3.45
+Melee Armor=1
+Pierce Armor=0
+Speed=0.96
+Range=8
+Tags=Infantry, Gunpowder, Unique Unit
+Sprite=janissary
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Kamayuk - Incas
+Cost=60F 30G
+HP=60
+Attack=7 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=1.0
+Range=1
+Tags=Infantry, Unique Unit
+Bonus Damage=+20 vs War Elephant, +8 vs Cavalry
+Sprite=kamayuk
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Karambit Warrior - Malay
+Cost=25F 15G
+HP=30
+Attack=7 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=1
+Speed=1.2
+Range=0
+Tags=Infantry, Unique Unit
+Sprite=karambit_warrior
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Keshik - Tatars
+Cost=60F 40G
+HP=110
+Attack=9 Melee
+Rate of Fire=1.9
+Melee Armor=1
+Pierce Armor=2
+Speed=1.4
+Range=0
+Tags=Cavalry, Unique Unit
+Sprite=keshik
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Kipchak - Cumans
+Cost=60W 35G
+HP=40
+Attack=4 Pierce
+Rate of Fire=2.2
+Melee Armor=0
+Pierce Armor=0
+Speed=1.4
+Range=4
+Tags=Cavalry Archer, Unique Unit
+Sprite=kipchak
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Konnik - Bulgarians
+Cost=60F 70G
+HP=100
+Attack=12 Melee
+Rate of Fire=2.4
+Melee Armor=2
+Pierce Armor=1
+Speed=1.35
+Range=0
+Tags=Cavalry, Unique Unit
+Sprite=konnik
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Leitis - Lithuanians
+Cost=70F 50G
+HP=100
+Attack=12 Melee
+Rate of Fire=1.9
+Melee Armor=1
+Pierce Armor=1
+Speed=1.4
+Range=0
+Tags=Cavalry, Unique Unit
+Sprite=leitis
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Longboat - Vikings
+Cost=100W 50G
+HP=130
+Attack=7 Pierce
+Rate of Fire=3.0
+Melee Armor=0
+Pierce Armor=6
+Speed=1.54
+Range=6
+Tags=Ship, Unique Unit
+Sprite=longboat
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Longbowman - Britons
+Cost=35W 40G
+HP=35
+Attack=6 Pierce
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=0.96
+Range=5
+Tags=Archer, Unique Unit
+Sprite=longbowman
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Magyar Huszar - Magyars
+Cost=80F 10G
+HP=65
+Attack=9 Melee
+Rate of Fire=1.8
+Melee Armor=0
+Pierce Armor=2
+Speed=1.5
+Range=0
+Tags=Cavalry, Unique Unit
+Bonus Damage=+5 vs Siege
+Sprite=magyar_huszar
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Mameluke - Saracens
+Cost=55F 85G
+HP=65
+Attack=8 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=1.4
+Range=3
+Tags=Cavalry, Unique Unit
+Bonus Damage=+3 vs Cavalry
+Sprite=mameluke
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Mangudai - Mongols
+Cost=55W 65G
+HP=60
+Attack=6 Pierce
+Rate of Fire=2.1
+Melee Armor=0
+Pierce Armor=0
+Speed=1.4
+Range=4
+Tags=Cavalry Archer, Unique Unit
+Bonus Damage=+3 vs Siege, +1 vs Spearman
+Sprite=mangudai
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Missionary - Spanish
+Cost=100G
+HP=30
+Attack=Conversion
+Rate of Fire=N/A
+Melee Armor=0
+Pierce Armor=0
+Speed=1.1
+Range=7
+Tags=Monk, Unique Unit
+Sprite=missionary
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Monaspa - Georgians
+Cost=55F 65G
+HP=110
+Attack=11 Melee
+Rate of Fire=1.9
+Melee Armor=2
+Pierce Armor=1
+Speed=1.35
+Range=0
+Tags=Cavalry, Unique Unit
+Sprite=monaspa
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Obuch - Poles
+Cost=55F 20G
+HP=60
+Attack=8 Melee
+Rate of Fire=2.0
+Melee Armor=2
+Pierce Armor=2
+Speed=1.0
+Range=0
+Tags=Infantry, Unique Unit
+Sprite=obuch
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Organ Gun - Portuguese
+Cost=80W 56G
+HP=60
+Attack=16 Pierce
+Rate of Fire=3.45
+Melee Armor=2
+Pierce Armor=4
+Speed=0.85
+Range=7
+Tags=Siege, Gunpowder, Unique Unit
+Sprite=organ_gun
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Plumed Archer - Mayans
+Cost=46W 46G
+HP=50
+Attack=5 Pierce
+Rate of Fire=1.9
+Melee Armor=0
+Pierce Armor=1
+Speed=1.2
+Range=4
+Tags=Archer, Unique Unit
+Sprite=plumed_archer
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Ratha - Bengalis
+Cost=60F 60G
+HP=105
+Attack=7 Melee / 5 Pierce
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=2
+Speed=1.3
+Range=0 / 4
+Tags=Cavalry, Cavalry Archer, Unique Unit
+Sprite=ratha
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Rattan Archer - Vietnamese
+Cost=50W 45G
+HP=40
+Attack=6 Pierce
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=4
+Speed=1.1
+Range=4
+Tags=Archer, Unique Unit
+Sprite=rattan_archer
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Samurai - Japanese
+Cost=60F 30G
+HP=60
+Attack=8 Melee
+Rate of Fire=1.9
+Melee Armor=1
+Pierce Armor=1
+Speed=1.0
+Range=0
+Tags=Infantry, Unique Unit
+Bonus Damage=+10 vs Unique Unit
+Sprite=samurai
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Serjeant - Sicilians
+Cost=60F 35G
+HP=50
+Attack=8 Melee
+Rate of Fire=2.0
+Melee Armor=2
+Pierce Armor=2
+Speed=0.9
+Range=0
+Tags=Infantry, Unique Unit
+Sprite=serjeant
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Shotel Warrior - Ethiopians
+Cost=50F 35G
+HP=40
+Attack=16 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=1.2
+Range=0
+Tags=Infantry, Unique Unit
+Sprite=shotel_warrior
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Shrivamsha Rider - Gurjaras
+Cost=70F 30G
+HP=55
+Attack=8 Melee
+Rate of Fire=1.8
+Melee Armor=0
+Pierce Armor=1
+Speed=1.5
+Range=0
+Tags=Cavalry, Unique Unit
+Sprite=shrivamsha_rider
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Slinger - Incas
+Cost=30F 40G
+HP=40
+Attack=5 Pierce
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=0.96
+Range=5
+Tags=Archer, Unique Unit
+Bonus Damage=+10 vs Infantry
+Sprite=slinger
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Tarkan - Huns
+Cost=60F 60G
+HP=100
+Attack=8 Melee
+Rate of Fire=2.1
+Melee Armor=1
+Pierce Armor=3
+Speed=1.35
+Range=0
+Tags=Cavalry, Unique Unit
+Bonus Damage=+8 vs Building
+Sprite=tarkan
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Teutonic Knight - Teutons
+Cost=85F 40G
+HP=80
+Attack=12 Melee
+Rate of Fire=2.0
+Melee Armor=5
+Pierce Armor=2
+Speed=0.65
+Range=0
+Tags=Infantry, Unique Unit
+Bonus Damage=+4 vs Eagle Warrior, +4 vs Standard Building
+Sprite=teutonic_knight
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Thirisadai - Dravidians
+Cost=150W 100G
+HP=250
+Attack=9 Pierce
+Rate of Fire=3.0
+Melee Armor=0
+Pierce Armor=5
+Speed=1.43
+Range=6
+Tags=Ship, Unique Unit
+Sprite=thirisadai
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Throwing Axeman - Franks
+Cost=55F 25G
+HP=60
+Attack=7 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=1.0
+Range=3
+Tags=Infantry, Unique Unit
+Sprite=throwing_axeman
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Turtle Ship - Koreans
+Cost=180W 180G
+HP=200
+Attack=50 Melee
+Rate of Fire=6.0
+Melee Armor=6
+Pierce Armor=5
+Speed=0.9
+Range=6
+Tags=Ship, Unique Unit
+Sprite=turtle_ship
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Urumi Swordsman - Dravidians
+Cost=65F 25G
+HP=55
+Attack=8 Melee
+Rate of Fire=2.03
+Melee Armor=0
+Pierce Armor=1
+Speed=1.05
+Range=0
+Tags=Infantry, Unique Unit
+Sprite=urumi_swordsman
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=War Elephant - Persians
+Cost=200F 75G
+HP=450
+Attack=15 Melee
+Rate of Fire=2.0
+Melee Armor=1
+Pierce Armor=2
+Speed=0.6
+Range=0
+Tags=Cavalry, Unique Unit
+Bonus Damage=+7 vs Building
+Sprite=war_elephant
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=War Wagon - Koreans
+Cost=110W 60G
+HP=150
+Attack=9 Pierce
+Rate of Fire=2.5
+Melee Armor=0
+Pierce Armor=3
+Speed=1.2
+Range=4
+Tags=Cavalry Archer, Unique Unit
+Sprite=war_wagon
+[END]
+
+[TIP]
+Type=Unique Unit
+Title=Woad Raider - Celts
+Cost=65F 25G
+HP=65
+Attack=8 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=1
+Speed=1.2
+Range=0
+Tags=Infantry, Unique Unit
+Sprite=woad_raider
+[END]
+
+## =============================================
+## GENERIC UNITS - BARRACKS
+## =============================================
+
+[TIP]
+Type=Unit
+Title=Militia
+Cost=60F 20G
+HP=40
+Attack=4 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=1
+Speed=0.9
+Range=0
+Tags=Infantry
+Sprite=militia
+[END]
+
+[TIP]
+Type=Unit
+Title=Man-at-Arms
+Cost=60F 20G
+HP=45
+Attack=6 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=1
+Speed=0.9
+Range=0
+Tags=Infantry
+Bonus Damage=+2 vs Eagle Warrior, +2 vs Standard Building
+Sprite=man_at_arms
+[END]
+
+[TIP]
+Type=Unit
+Title=Long Swordsman
+Cost=60F 20G
+HP=60
+Attack=9 Melee
+Rate of Fire=2.0
+Melee Armor=1
+Pierce Armor=1
+Speed=0.9
+Range=0
+Tags=Infantry
+Bonus Damage=+6 vs Eagle Warrior, +3 vs Standard Building
+Sprite=long_swordsman
+[END]
+
+[TIP]
+Type=Unit
+Title=Two-Handed Swordsman
+Cost=60F 20G
+HP=60
+Attack=12 Melee
+Rate of Fire=2.0
+Melee Armor=1
+Pierce Armor=1
+Speed=0.9
+Range=0
+Tags=Infantry
+Bonus Damage=+8 vs Eagle Warrior, +4 vs Standard Building
+Sprite=two_handed_swordsman
+[END]
+
+[TIP]
+Type=Unit
+Title=Champion
+Cost=60F 20G
+HP=70
+Attack=13 Melee
+Rate of Fire=2.0
+Melee Armor=1
+Pierce Armor=1
+Speed=0.9
+Range=0
+Tags=Infantry
+Bonus Damage=+8 vs Eagle Warrior, +4 vs Standard Building
+Sprite=champion
+[END]
+
+[TIP]
+Type=Unit
+Title=Spearman
+Cost=35F 25W
+HP=45
+Attack=3 Melee
+Rate of Fire=3.0
+Melee Armor=0
+Pierce Armor=0
+Speed=1.0
+Range=0
+Tags=Infantry, Spearman
+Bonus Damage=+15 vs Cavalry, +15 vs War Elephant, +12 vs Camel
+Sprite=spearman
+[END]
+
+[TIP]
+Type=Unit
+Title=Pikeman
+Cost=35F 25W
+HP=55
+Attack=4 Melee
+Rate of Fire=3.0
+Melee Armor=0
+Pierce Armor=0
+Speed=1.0
+Range=0
+Tags=Infantry, Spearman
+Bonus Damage=+22 vs Cavalry, +25 vs War Elephant, +18 vs Camel
+Sprite=pikeman
+[END]
+
+[TIP]
+Type=Unit
+Title=Halberdier
+Cost=35F 25W
+HP=60
+Attack=6 Melee
+Rate of Fire=3.0
+Melee Armor=0
+Pierce Armor=0
+Speed=1.0
+Range=0
+Tags=Infantry, Spearman
+Bonus Damage=+32 vs Cavalry, +28 vs War Elephant, +26 vs Camel
+Sprite=halberdier
+[END]
+
+[TIP]
+Type=Unit
+Title=Eagle Scout
+Cost=20F 50G
+HP=50
+Attack=4 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=2
+Speed=1.1
+Range=0
+Tags=Infantry, Eagle Warrior
+Bonus Damage=+3 vs Monk, +3 vs Siege
+Sprite=eagle_scout
+[END]
+
+[TIP]
+Type=Unit
+Title=Eagle Warrior
+Cost=20F 50G
+HP=55
+Attack=7 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=3
+Speed=1.15
+Range=0
+Tags=Infantry, Eagle Warrior
+Bonus Damage=+3 vs Monk, +4 vs Siege, +2 vs Cavalry
+Sprite=eagle_warrior
+[END]
+
+[TIP]
+Type=Unit
+Title=Elite Eagle Warrior
+Cost=20F 50G
+HP=60
+Attack=9 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=4
+Speed=1.3
+Range=0
+Tags=Infantry, Eagle Warrior
+Bonus Damage=+4 vs Monk, +4 vs Siege, +3 vs Cavalry
+Sprite=elite_eagle_warrior
+[END]
+
+## =============================================
+## GENERIC UNITS - ARCHERY RANGE
+## =============================================
+
+[TIP]
+Type=Unit
+Title=Archer
+Cost=25W 45G
+HP=30
+Attack=4 Pierce
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=0.96
+Range=4
+Tags=Archer
+Sprite=archer
+[END]
+
+[TIP]
+Type=Unit
+Title=Crossbowman
+Cost=25W 45G
+HP=35
+Attack=5 Pierce
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=0.96
+Range=5
+Tags=Archer
+Sprite=crossbowman
+[END]
+
+[TIP]
+Type=Unit
+Title=Arbalester
+Cost=25W 45G
+HP=40
+Attack=6 Pierce
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=0.96
+Range=5
+Tags=Archer
+Sprite=arbalester
+[END]
+
+[TIP]
+Type=Unit
+Title=Skirmisher
+Cost=25F 35W
+HP=30
+Attack=2 Pierce
+Rate of Fire=3.0
+Melee Armor=0
+Pierce Armor=3
+Speed=0.96
+Range=4
+Tags=Archer, Skirmisher
+Bonus Damage=+3 vs Archer, +3 vs Spearman
+Sprite=skirmisher
+[END]
+
+[TIP]
+Type=Unit
+Title=Elite Skirmisher
+Cost=25F 35W
+HP=35
+Attack=3 Pierce
+Rate of Fire=3.0
+Melee Armor=0
+Pierce Armor=4
+Speed=0.96
+Range=5
+Tags=Archer, Skirmisher
+Bonus Damage=+4 vs Archer, +3 vs Spearman, +3 vs Cavalry Archer
+Sprite=elite_skirmisher
+[END]
+
+[TIP]
+Type=Unit
+Title=Cavalry Archer
+Cost=40W 60G
+HP=50
+Attack=6 Pierce
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=1.4
+Range=4
+Tags=Cavalry Archer
+Sprite=cavalry_archer
+[END]
+
+[TIP]
+Type=Unit
+Title=Heavy Cavalry Archer
+Cost=40W 60G
+HP=60
+Attack=7 Pierce
+Rate of Fire=2.0
+Melee Armor=1
+Pierce Armor=0
+Speed=1.4
+Range=4
+Tags=Cavalry Archer
+Sprite=heavy_cavalry_archer
+[END]
+
+[TIP]
+Type=Unit
+Title=Hand Cannoneer
+Cost=45F 50G
+HP=35
+Attack=17 Pierce
+Rate of Fire=3.45
+Melee Armor=1
+Pierce Armor=0
+Speed=0.96
+Range=7
+Tags=Infantry, Gunpowder
+Sprite=hand_cannoneer
+[END]
+
+[TIP]
+Type=Unit
+Title=Elephant Archer
+Cost=100F 80G
+HP=280
+Attack=6 Pierce
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=3
+Speed=0.8
+Range=4
+Tags=Cavalry Archer, Elephant
+Sprite=elephant_archer
+[END]
+
+[TIP]
+Type=Unit
+Title=Elite Elephant Archer
+Cost=100F 80G
+HP=330
+Attack=7 Pierce
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=4
+Speed=0.8
+Range=4
+Tags=Cavalry Archer, Elephant
+Sprite=elite_elephant_archer
+[END]
+
+## =============================================
+## GENERIC UNITS - STABLE
+## =============================================
+
+[TIP]
+Type=Unit
+Title=Scout Cavalry
+Cost=80F
+HP=45
+Attack=5 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=2
+Speed=1.55
+Range=0
+Tags=Cavalry
+Sprite=scout_cavalry
+[END]
+
+[TIP]
+Type=Unit
+Title=Light Cavalry
+Cost=80F
+HP=60
+Attack=7 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=2
+Speed=1.5
+Range=0
+Tags=Cavalry
+Sprite=light_cavalry
+[END]
+
+[TIP]
+Type=Unit
+Title=Hussar
+Cost=80F
+HP=75
+Attack=9 Melee
+Rate of Fire=1.9
+Melee Armor=0
+Pierce Armor=2
+Speed=1.5
+Range=0
+Tags=Cavalry
+Sprite=hussar
+[END]
+
+[TIP]
+Type=Unit
+Title=Winged Hussar
+Cost=80F
+HP=80
+Attack=10 Melee
+Rate of Fire=1.9
+Melee Armor=0
+Pierce Armor=2
+Speed=1.5
+Range=0
+Tags=Cavalry
+Bonus Damage=+4 vs Monk
+Sprite=winged_hussar
+[END]
+
+[TIP]
+Type=Unit
+Title=Knight
+Cost=60F 75G
+HP=100
+Attack=10 Melee
+Rate of Fire=1.8
+Melee Armor=2
+Pierce Armor=2
+Speed=1.35
+Range=0
+Tags=Cavalry
+Sprite=knight
+[END]
+
+[TIP]
+Type=Unit
+Title=Cavalier
+Cost=60F 75G
+HP=120
+Attack=12 Melee
+Rate of Fire=1.8
+Melee Armor=2
+Pierce Armor=2
+Speed=1.35
+Range=0
+Tags=Cavalry
+Sprite=cavalier
+[END]
+
+[TIP]
+Type=Unit
+Title=Paladin
+Cost=60F 75G
+HP=160
+Attack=14 Melee
+Rate of Fire=1.9
+Melee Armor=2
+Pierce Armor=3
+Speed=1.35
+Range=0
+Tags=Cavalry
+Sprite=paladin
+[END]
+
+[TIP]
+Type=Unit
+Title=Camel Rider
+Cost=55F 60G
+HP=100
+Attack=6 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=1.45
+Range=0
+Tags=Cavalry, Camel
+Bonus Damage=+9 vs Cavalry, +5 vs Camel, +5 vs Ship
+Sprite=camel_rider
+[END]
+
+[TIP]
+Type=Unit
+Title=Heavy Camel Rider
+Cost=55F 60G
+HP=120
+Attack=7 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=1.45
+Range=0
+Tags=Cavalry, Camel
+Bonus Damage=+18 vs Cavalry, +9 vs Camel, +9 vs Ship
+Sprite=heavy_camel_rider
+[END]
+
+[TIP]
+Type=Unit
+Title=Battle Elephant
+Cost=120F 70G
+HP=250
+Attack=12 Melee
+Rate of Fire=2.0
+Melee Armor=1
+Pierce Armor=2
+Speed=0.85
+Range=0
+Tags=Cavalry, Elephant
+Bonus Damage=+7 vs Building
+Sprite=battle_elephant
+[END]
+
+[TIP]
+Type=Unit
+Title=Elite Battle Elephant
+Cost=120F 70G
+HP=300
+Attack=14 Melee
+Rate of Fire=2.0
+Melee Armor=1
+Pierce Armor=3
+Speed=0.85
+Range=0
+Tags=Cavalry, Elephant
+Bonus Damage=+7 vs Building
+Sprite=elite_battle_elephant
+[END]
+
+[TIP]
+Type=Unit
+Title=Steppe Lancer
+Cost=70F 40G
+HP=60
+Attack=8 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=1
+Speed=1.45
+Range=1
+Tags=Cavalry
+Sprite=steppe_lancer
+[END]
+
+[TIP]
+Type=Unit
+Title=Elite Steppe Lancer
+Cost=70F 40G
+HP=80
+Attack=10 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=1
+Speed=1.45
+Range=1
+Tags=Cavalry
+Sprite=elite_steppe_lancer
+[END]
+
+## =============================================
+## GENERIC UNITS - SIEGE WORKSHOP
+## =============================================
+
+[TIP]
+Type=Unit
+Title=Battering Ram
+Cost=160W 75G
+HP=175
+Attack=2 Melee
+Rate of Fire=5.0
+Melee Armor=-3
+Pierce Armor=180
+Speed=0.5
+Range=0
+Tags=Siege
+Bonus Damage=+125 vs Building
+Sprite=battering_ram
+[END]
+
+[TIP]
+Type=Unit
+Title=Capped Ram
+Cost=160W 75G
+HP=200
+Attack=3 Melee
+Rate of Fire=5.0
+Melee Armor=-3
+Pierce Armor=190
+Speed=0.5
+Range=0
+Tags=Siege
+Bonus Damage=+150 vs Building
+Sprite=capped_ram
+[END]
+
+[TIP]
+Type=Unit
+Title=Siege Ram
+Cost=160W 75G
+HP=270
+Attack=4 Melee
+Rate of Fire=5.0
+Melee Armor=-3
+Pierce Armor=195
+Speed=0.6
+Range=0
+Tags=Siege
+Bonus Damage=+200 vs Building
+Sprite=siege_ram
+[END]
+
+[TIP]
+Type=Unit
+Title=Armored Elephant
+Cost=120F 95G
+HP=250
+Attack=4 Melee
+Rate of Fire=5.0
+Melee Armor=-2
+Pierce Armor=180
+Speed=0.6
+Range=0
+Tags=Siege, Elephant
+Bonus Damage=+125 vs Building
+Sprite=armored_elephant
+[END]
+
+[TIP]
+Type=Unit
+Title=Siege Elephant
+Cost=120F 95G
+HP=350
+Attack=5 Melee
+Rate of Fire=5.0
+Melee Armor=-2
+Pierce Armor=195
+Speed=0.65
+Range=0
+Tags=Siege, Elephant
+Bonus Damage=+200 vs Building
+Sprite=siege_elephant
+[END]
+
+[TIP]
+Type=Unit
+Title=Mangonel
+Cost=160W 135G
+HP=50
+Attack=40 Melee
+Rate of Fire=6.0
+Melee Armor=0
+Pierce Armor=6
+Speed=0.6
+Range=7
+Tags=Siege
+Bonus Damage=+12 vs Building
+Sprite=mangonel
+[END]
+
+[TIP]
+Type=Unit
+Title=Onager
+Cost=160W 135G
+HP=60
+Attack=50 Melee
+Rate of Fire=6.0
+Melee Armor=0
+Pierce Armor=7
+Speed=0.6
+Range=8
+Tags=Siege
+Bonus Damage=+12 vs Building
+Sprite=onager
+[END]
+
+[TIP]
+Type=Unit
+Title=Siege Onager
+Cost=160W 135G
+HP=70
+Attack=75 Melee
+Rate of Fire=6.0
+Melee Armor=0
+Pierce Armor=8
+Speed=0.6
+Range=8
+Tags=Siege
+Bonus Damage=+12 vs Building
+Sprite=siege_onager
+[END]
+
+[TIP]
+Type=Unit
+Title=Scorpion
+Cost=75W 75G
+HP=40
+Attack=12 Pierce
+Rate of Fire=3.6
+Melee Armor=0
+Pierce Armor=6
+Speed=0.65
+Range=7
+Tags=Siege
+Bonus Damage=+6 vs War Elephant, +1 vs Building
+Sprite=scorpion
+[END]
+
+[TIP]
+Type=Unit
+Title=Heavy Scorpion
+Cost=75W 75G
+HP=50
+Attack=16 Pierce
+Rate of Fire=3.6
+Melee Armor=0
+Pierce Armor=7
+Speed=0.65
+Range=7
+Tags=Siege
+Bonus Damage=+8 vs War Elephant, +2 vs Building
+Sprite=heavy_scorpion
+[END]
+
+[TIP]
+Type=Unit
+Title=Bombard Cannon
+Cost=225W 225G
+HP=40
+Attack=40 Melee
+Rate of Fire=6.5
+Melee Armor=2
+Pierce Armor=5
+Speed=0.7
+Range=12
+Tags=Siege, Gunpowder
+Bonus Damage=+200 vs Building, +40 vs Ship
+Sprite=bombard_cannon
+[END]
+
+[TIP]
+Type=Unit
+Title=Siege Tower
+Cost=200W 160G
+HP=220
+Attack=0
+Rate of Fire=N/A
+Melee Armor=-2
+Pierce Armor=150
+Speed=0.8
+Range=0
+Tags=Siege
+Sprite=siege_tower
+[END]
+
+## =============================================
+## GENERIC UNITS - CASTLE
+## =============================================
+
+[TIP]
+Type=Unit
+Title=Petard
+Cost=65F 20G
+HP=50
+Attack=25 Melee
+Rate of Fire=N/A
+Melee Armor=0
+Pierce Armor=2
+Speed=0.8
+Range=0
+Tags=Siege
+Bonus Damage=+500 vs Building, +60 vs Siege
+Sprite=petard
+[END]
+
+[TIP]
+Type=Unit
+Title=Trebuchet
+Cost=200W 200G
+HP=150
+Attack=200 Melee
+Rate of Fire=10.0
+Melee Armor=1
+Pierce Armor=150
+Speed=0.8
+Range=16
+Tags=Siege
+Bonus Damage=+250 vs Building
+Sprite=trebuchet
+[END]
+
+## =============================================
+## GENERIC UNITS - MONASTERY
+## =============================================
+
+[TIP]
+Type=Unit
+Title=Monk
+Cost=100G
+HP=30
+Attack=Conversion
+Rate of Fire=N/A
+Melee Armor=0
+Pierce Armor=0
+Speed=0.7
+Range=9
+Tags=Monk
+Sprite=monk
+[END]
+
+## =============================================
+## GENERIC UNITS - DOCK
+## =============================================
+
+[TIP]
+Type=Unit
+Title=Galley
+Cost=90W 30G
+HP=120
+Attack=6 Pierce
+Rate of Fire=3.0
+Melee Armor=0
+Pierce Armor=6
+Speed=1.43
+Range=5
+Tags=Ship
+Sprite=galley
+[END]
+
+[TIP]
+Type=Unit
+Title=War Galley
+Cost=90W 30G
+HP=135
+Attack=7 Pierce
+Rate of Fire=3.0
+Melee Armor=0
+Pierce Armor=6
+Speed=1.43
+Range=6
+Tags=Ship
+Sprite=war_galley
+[END]
+
+[TIP]
+Type=Unit
+Title=Galleon
+Cost=90W 30G
+HP=165
+Attack=8 Pierce
+Rate of Fire=3.0
+Melee Armor=0
+Pierce Armor=8
+Speed=1.43
+Range=7
+Tags=Ship
+Sprite=galleon
+[END]
+
+[TIP]
+Type=Unit
+Title=Fire Galley
+Cost=75W 45G
+HP=100
+Attack=1 Pierce
+Rate of Fire=0.25
+Melee Armor=0
+Pierce Armor=4
+Speed=1.35
+Range=2.49
+Tags=Ship
+Bonus Damage=+3 vs Ship, +3 vs Turtle Ship
+Sprite=fire_galley
+[END]
+
+[TIP]
+Type=Unit
+Title=Fire Ship
+Cost=75W 45G
+HP=120
+Attack=2 Pierce
+Rate of Fire=0.25
+Melee Armor=0
+Pierce Armor=6
+Speed=1.35
+Range=2.49
+Tags=Ship
+Bonus Damage=+3 vs Ship
+Sprite=fire_ship
+[END]
+
+[TIP]
+Type=Unit
+Title=Fast Fire Ship
+Cost=75W 45G
+HP=140
+Attack=3 Pierce
+Rate of Fire=0.25
+Melee Armor=0
+Pierce Armor=8
+Speed=1.43
+Range=2.49
+Tags=Ship
+Bonus Damage=+3 vs Ship
+Sprite=fast_fire_ship
+[END]
+
+[TIP]
+Type=Unit
+Title=Demolition Raft
+Cost=70W 50G
+HP=45
+Attack=110 Melee
+Rate of Fire=N/A
+Melee Armor=0
+Pierce Armor=2
+Speed=1.6
+Range=0
+Tags=Ship
+Sprite=demolition_raft
+[END]
+
+[TIP]
+Type=Unit
+Title=Demolition Ship
+Cost=70W 50G
+HP=60
+Attack=170 Melee
+Rate of Fire=N/A
+Melee Armor=0
+Pierce Armor=3
+Speed=1.6
+Range=0
+Tags=Ship
+Sprite=demolition_ship
+[END]
+
+[TIP]
+Type=Unit
+Title=Heavy Demolition Ship
+Cost=70W 50G
+HP=70
+Attack=200 Melee
+Rate of Fire=N/A
+Melee Armor=0
+Pierce Armor=5
+Speed=1.6
+Range=0
+Tags=Ship
+Sprite=heavy_demolition_ship
+[END]
+
+[TIP]
+Type=Unit
+Title=Cannon Galleon
+Cost=200W 150G
+HP=120
+Attack=35 Melee
+Rate of Fire=10.0
+Melee Armor=0
+Pierce Armor=6
+Speed=1.1
+Range=13
+Tags=Ship, Gunpowder
+Bonus Damage=+15 vs Building
+Sprite=cannon_galleon
+[END]
+
+[TIP]
+Type=Unit
+Title=Elite Cannon Galleon
+Cost=200W 150G
+HP=150
+Attack=45 Melee
+Rate of Fire=10.0
+Melee Armor=0
+Pierce Armor=8
+Speed=1.1
+Range=15
+Tags=Ship, Gunpowder
+Bonus Damage=+15 vs Building
+Sprite=elite_cannon_galleon
+[END]
+
+[TIP]
+Type=Unit
+Title=Transport Ship
+Cost=125W
+HP=100
+Attack=None
+Rate of Fire=N/A
+Melee Armor=4
+Pierce Armor=8
+Speed=1.45
+Range=0
+Tags=Ship
+Sprite=transport_ship
+[END]
+
+## =============================================
+## GENERIC UNITS - OTHER
+## =============================================
+
+[TIP]
+Type=Unit
+Title=Villager
+Cost=50F
+HP=25
+Attack=3 Melee
+Rate of Fire=2.0
+Melee Armor=0
+Pierce Armor=0
+Speed=0.8
+Range=0
+Tags=Civilian
+Sprite=villager
+[END]
+
+[TIP]
+Type=Unit
+Title=Trade Cart
+Cost=100G
+HP=70
+Attack=None
+Rate of Fire=N/A
+Melee Armor=0
+Pierce Armor=0
+Speed=1.0
+Range=0
+Tags=Civilian
+Sprite=trade_cart
+[END]
+
+[TIP]
+Type=Unit
+Title=Trade Cog
+Cost=100G
+HP=80
+Attack=None
+Rate of Fire=N/A
+Melee Armor=0
+Pierce Armor=6
+Speed=1.32
+Range=0
+Tags=Ship, Civilian
+Sprite=trade_cog
+[END]
+
+[TIP]
+Type=Unit
+Title=Fishing Ship
+Cost=75W
+HP=60
+Attack=None
+Rate of Fire=N/A
+Melee Armor=0
+Pierce Armor=4
+Speed=1.26
+Range=0
+Tags=Ship, Civilian
+Sprite=fishing_ship
+[END]

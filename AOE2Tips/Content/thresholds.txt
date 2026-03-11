@@ -1,0 +1,102 @@
+# Thresholds define color grades for card values.
+# Each block maps a label to 4 ascending boundary values (T1 < T2 < T3 < T4)
+# creating 5 quality zones. "Direction" controls which end is good:
+#
+#   Direction=higher  (higher values are better):
+#     value <= T1        -> Very Poor  (bright red)
+#     T1 < value <= T2   -> Poor       (blush)
+#     T2 < value <= T3   -> Average    (white)
+#     T3 < value <= T4   -> Good       (light green)
+#     value > T4         -> Very Good  (bright green)
+#
+#   Direction=lower   (lower values are better):
+#     value <= T1        -> Very Good  (bright green)
+#     T1 < value <= T2   -> Good       (light green)
+#     T2 < value <= T3   -> Average    (white)
+#     T3 < value <= T4   -> Poor       (blush)
+#     value > T4         -> Very Poor  (bright red)
+#
+# Parse modes:
+#   number  - parse entire string as a decimal  (e.g. "45", "0.96")
+#   first   - take the first number found       (e.g. "6 Pierce" -> 6)
+#   sum     - sum all numbers in the string     (e.g. "50W 50G"  -> 100)
+
+[THRESHOLD]
+Label=Cost
+Direction=lower
+Parse=sum
+T1=60
+T2=90
+T3=120
+T4=150
+[END]
+
+[THRESHOLD]
+Label=HP
+Direction=higher
+Parse=number
+T1=30
+T2=50
+T3=80
+T4=120
+[END]
+
+[THRESHOLD]
+Label=Attack
+Direction=higher
+Parse=first
+T1=4
+T2=6
+T3=9
+T4=13
+[END]
+
+[THRESHOLD]
+Label=Rate of Fire
+Direction=lower
+Parse=number
+T1=1.5
+T2=1.9
+T3=2.1
+T4=2.5
+[END]
+
+[THRESHOLD]
+Label=Melee Armor
+Direction=higher
+Parse=number
+T1=0
+T2=1
+T3=2
+T4=4
+[END]
+
+[THRESHOLD]
+Label=Pierce Armor
+Direction=higher
+Parse=number
+T1=0
+T2=1
+T3=3
+T4=5
+[END]
+
+[THRESHOLD]
+Label=Speed
+Direction=higher
+Parse=number
+T1=0.7
+T2=0.9
+T3=1.1
+T4=1.35
+[END]
+
+[THRESHOLD]
+Label=Range
+Direction=higher
+Parse=number
+T1=0
+T2=2
+T3=4
+T4=6
+[END]
