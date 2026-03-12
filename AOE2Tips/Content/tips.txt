@@ -74,7 +74,7 @@ Melee Armor=0
 Pierce Armor=1
 Speed=1.4
 Range=4
-Tags=Cavalry Archer, Unique Unit
+Tags=Cavalry Archer, Unique Unit, Camel
 Bonus Damage=+2 vs Cavalry Archer
 Sprite=camel_archer
 [END]

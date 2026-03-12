@@ -55,8 +55,20 @@ namespace HPScreen
         {
             Graphics.Current.SpriteB = new Microsoft.Xna.Framework.Graphics.SpriteBatch(Graphics.Current.GraphicsDM.GraphicsDevice);
 
-            // Add your Sprites here like the following:
-            //Graphics.Current.SpritesByName.Add("sprite_name", Content.Load<Texture2D>("Sprites/name_of_asset"));
+            // Sprites
+            Graphics.Current.SpritesByName.Add("arambai", Content.Load<Texture2D>("Sprites/arambai"));
+            Graphics.Current.SpritesByName.Add("ballista_elephant", Content.Load<Texture2D>("Sprites/ballista_elephant"));
+            Graphics.Current.SpritesByName.Add("berserk", Content.Load<Texture2D>("Sprites/berserk"));
+            Graphics.Current.SpritesByName.Add("boyar", Content.Load<Texture2D>("Sprites/boyar"));
+            Graphics.Current.SpritesByName.Add("camel_archer", Content.Load<Texture2D>("Sprites/camel_archer"));
+            Graphics.Current.SpritesByName.Add("caravel", Content.Load<Texture2D>("Sprites/caravel"));
+            Graphics.Current.SpritesByName.Add("cataphract", Content.Load<Texture2D>("Sprites/cataphract"));
+            Graphics.Current.SpritesByName.Add("centurion", Content.Load<Texture2D>("Sprites/centurion"));
+            Graphics.Current.SpritesByName.Add("chakram_thrower", Content.Load<Texture2D>("Sprites/chakram_thrower"));
+            Graphics.Current.SpritesByName.Add("chu_ko_nu", Content.Load<Texture2D>("Sprites/chu_ko_nu"));
+            Graphics.Current.SpritesByName.Add("composite_bowman", Content.Load<Texture2D>("Sprites/composite_bowman"));
+            Graphics.Current.SpritesByName.Add("condottiero", Content.Load<Texture2D>("Sprites/condottiero"));
+            Graphics.Current.SpritesByName.Add("genoese_crossbowman", Content.Load<Texture2D>("Sprites/genoese_crossbowman"));
 
             Graphics.Current.Fonts = new Dictionary<string, SpriteFont>();
             Graphics.Current.Fonts.Add("arial-48", Content.Load<SpriteFont>($"Fonts/arial_48"));
@@ -115,6 +127,9 @@ namespace HPScreen
                 card.MeasureLayout();
             }
 
+            // Debug: restrict tip pool to only units with sprites loaded
+            //ApplyDebugFilter();
+
             // Show the first random tip
             PickNextCard();
 
@@ -161,6 +176,34 @@ namespace HPScreen
 
             // Reset timer
             _tipTimer = 0;
+        }
+
+        /// <summary>
+        /// Restricts the tip pool to only cards whose SpriteName is in the debug list.
+        /// Comment out the call to this method in Setup() to restore the full pool.
+        /// </summary>
+        private void ApplyDebugFilter()
+        {
+            var debugSpriteNames = new HashSet<string>
+            {
+                "arambai",
+                "ballista_elephant",
+                "berserk",
+                "boyar",
+                "camel_archer",
+                "caravel",
+                "cataphract",
+                "centurion",
+                "chakram_thrower",
+                "chu_ko_nu",
+                "composite_bowman",
+                "condottiero",
+                "genoese_crossbowman"
+            };
+
+            _allCards = _allCards
+                .Where(c => !string.IsNullOrEmpty(c.SpriteName) && debugSpriteNames.Contains(c.SpriteName))
+                .ToList();
         }
 
         protected void CheckInput()
